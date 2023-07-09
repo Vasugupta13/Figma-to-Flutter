@@ -1,16 +1,7 @@
-# ricoz_homescreen
+#Ricoz_homescreen
+A Figma Design into responsive and dynamic UI with ListView Widget suitable for almost all the mobile screen sizes
 
-A new Flutter project.
+                                                                  App Video-                                   
 
-## Getting Started
+https://github.com/Vasugupta13/Figma-to-Flutter/assets/98811369/ff4ed629-a47e-458a-9fc1-44e9838ac8b3
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
